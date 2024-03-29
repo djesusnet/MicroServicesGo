@@ -3,7 +3,7 @@
 Este repositório é uma jornada de aprendizado e descoberta, mergulhando profundamente nos conceitos e práticas dos microservices utilizando a linguagem de programação Go (Golang), especificamente a versão 1.22. Projetado tanto para iniciantes 
 quanto para desenvolvedores experientes, este guia abrangente destila o poder da arquitetura de microservices, demonstrando como construir, testar e gerenciar sistemas distribuídos eficientemente com Go.
 
-# Por que Golang? 🌟
+# Por que Golang?   <img align="center" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> 🌟
 
 Go, ou Golang, é conhecida por sua simplicidade, eficiência e suporte inigualável para concorrência. Essas qualidades a tornam a linguagem ideal para o desenvolvimento de microservices robustos e escaláveis. A versão 1.22 traz melhorias e funcionalidades que otimizam ainda mais o desenvolvimento de microservices, garantindo um desempenho superior e uma experiência de desenvolvimento aprimorada.
 
